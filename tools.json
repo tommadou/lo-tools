@@ -1,14 +1,15 @@
 [
   {
-    "visible": true,
     "title": "Video Delay",
-    "description": "Delayed video feedback for physical education, coaching and movement analysis.",
-    "url": "#",
-    "featured": true,
+    "description": "Deze tool toont wat er voor de camera van een toestel (smartphone, tablet, …) gebeurt met een zelfgekozen vertraging. Je kunt de tool dus gebruiken als een soort spiegel met vertraging (bijvoorbeeld, 8 seconden bij het inoefenen van een sprong).\nZo kunnen leerlingen een opdracht uitvoeren voor de camera en zichzelf meteen daarna aan het werk zien, zonder dat ze het toestel hoeven te bedienen. Daarnaast kun je op het videobeeld tekenen en aandachtspunten aanduiden en benoemen.",
+    "url": "https://tommadou.github.io/videodelay/",
     "keywords": [
-      "video",
-      "feedback"
-    ]
+      "Feedback",
+      "Formatief handelen",
+      "Video"
+    ],
+    "featured": false,
+    "visible": true
   },
   {
     "visible": true,
