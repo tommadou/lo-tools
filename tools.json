@@ -12,26 +12,30 @@
     "visible": true
   },
   {
-    "visible": true,
     "title": "SWOLF Test",
-    "description": "Time swimmers, record stroke count and calculate SWOLF quickly during class.",
-    "url": "#",
-    "featured": false,
+    "description": "Deze tool maakt het eenvoudig om een SWOLF-test af te nemen tijdens een zwemles. SWOLF combineert de tijd die een zwemmer nodig heeft om een afstand af te leggen met het aantal zwemslagen. Zo krijg je een eenvoudige maat voor zwemefficiëntie.\nMet de tool kun je meerdere leerlingen en banen tegelijk opvolgen. Je registreert de zwemtijd en het aantal slagen, waarna de SWOLF-score automatisch wordt berekend. De resultaten kunnen nadien worden geëxporteerd voor verdere verwerking.",
+    "url": "https://tommadou.github.io/SWOLF/",
     "keywords": [
-      "zwemmen",
-      "SWOLF"
-    ]
+      "Evaluatie",
+      "Formatief handelen",
+      "SWOLF",
+      "Zwemmen"
+    ],
+    "featured": false,
+    "visible": true
   },
   {
-    "visible": true,
-    "title": "Lane Timing",
-    "description": "A simple lane and wave timer for swimming, running and other PE activities.",
-    "url": "#",
-    "featured": false,
+    "title": "Pace coach",
+    "description": "Deze tool helpt leerlingen om tijdens het lopen of zwemmen een vooraf gekozen tempo aan te houden. Je stelt de afstand in, waarna je eenvoudig splits kan bijhouden voor de verschillende deelnemers en autmatisch feedback krijgt over de gelijkmatigheid in snelheid.\nZo krijgen leerlingen tijdens het lopen of zwemmen onmiddellijk feedback over hun tempo en leren ze hun inspanning beter verdelen.",
+    "url": "https://tommadou.github.io/pacecoach/",
     "keywords": [
-      "timing",
-      "zwemmen",
-      "lopen"
-    ]
+      "Evaluatie",
+      "Formatief handelen",
+      "Lopen",
+      "Uithouding",
+      "Zwemmen"
+    ],
+    "featured": false,
+    "visible": true
   }
 ]
