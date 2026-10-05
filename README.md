@@ -24,3 +24,7 @@ Maak een repository (bijvoorbeeld `lo-tools`), upload deze drie bestanden en act
 Voor de adminpagina maak je een fine-grained GitHub personal access token dat uitsluitend toegang heeft tot deze repository en alleen `Contents: Read and write` krijgt. Vul gebruikersnaam, repository en token in op `admin.html`. Het token wordt niet lokaal opgeslagen.
 
 > Een geheime URL naar `admin.html` is geen echte beveiliging. Zonder het GitHub-token kan iemand echter niets naar de repository publiceren.
+
+
+## Admin
+De beheerpagina staat in `beheer-k7m4x9q2.html`. De GitHub-token wordt na de eerste invoer lokaal in de browser opgeslagen (localStorage) en niet in de repository.

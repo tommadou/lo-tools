@@ -1,6 +1,15 @@
 [
   {
-    "visible": true,
+    "title": "Video Delay",
+    "description": "Delayed video feedback for physical education, coaching and movement analysis.",
+    "url": "#",
+    "featured": true,
+    "keywords": [
+      "video",
+      "feedback"
+    ]
+  },
+  {
     "title": "SWOLF Test",
     "description": "Time swimmers, record stroke count and calculate SWOLF quickly during class.",
     "url": "#",
@@ -11,7 +20,6 @@
     ]
   },
   {
-    "visible": true,
     "title": "Lane Timing",
     "description": "A simple lane and wave timer for swimming, running and other PE activities.",
     "url": "#",
