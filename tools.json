@@ -1,5 +1,6 @@
 [
   {
+    "visible": true,
     "title": "Video Delay",
     "description": "Deze tool toont wat er voor de camera van een toestel (smartphone, tablet, …) gebeurt met een zelfgekozen vertraging. Je kunt de tool dus gebruiken als een soort spiegel met vertraging (bijvoorbeeld, 8 seconden bij het inoefenen van een sprong).\nZo kunnen leerlingen een opdracht uitvoeren voor de camera en zichzelf meteen daarna aan het werk zien, zonder dat ze het toestel hoeven te bedienen. Daarnaast kun je op het videobeeld tekenen en aandachtspunten aanduiden en benoemen.",
     "url": "https://tommadou.github.io/videodelay/",
@@ -8,10 +9,10 @@
       "Formatief handelen",
       "Video"
     ],
-    "featured": false,
-    "visible": true
+    "featured": false
   },
   {
+    "visible": true,
     "title": "SWOLF Test",
     "description": "Deze tool maakt het eenvoudig om een SWOLF-test af te nemen tijdens een zwemles. SWOLF combineert de tijd die een zwemmer nodig heeft om een afstand af te leggen met het aantal zwemslagen. Zo krijg je een eenvoudige maat voor zwemefficiëntie.\nMet de tool kun je meerdere leerlingen en banen tegelijk opvolgen. Je registreert de zwemtijd en het aantal slagen, waarna de SWOLF-score automatisch wordt berekend. De resultaten kunnen nadien worden geëxporteerd voor verdere verwerking.",
     "url": "https://tommadou.github.io/SWOLF/",
@@ -21,10 +22,10 @@
       "SWOLF",
       "Zwemmen"
     ],
-    "featured": false,
-    "visible": true
+    "featured": false
   },
   {
+    "visible": false,
     "title": "Pace coach",
     "description": "Deze tool helpt leerlingen om tijdens het lopen of zwemmen een vooraf gekozen tempo aan te houden. Je stelt de afstand in, waarna je eenvoudig splits kan bijhouden voor de verschillende deelnemers en autmatisch feedback krijgt over de gelijkmatigheid in snelheid.\nZo krijgen leerlingen tijdens het lopen of zwemmen onmiddellijk feedback over hun tempo en leren ze hun inspanning beter verdelen.",
     "url": "https://tommadou.github.io/pacecoach/",
@@ -34,6 +35,16 @@
       "Lopen",
       "Uithouding",
       "Zwemmen"
+    ],
+    "featured": false
+  },
+  {
+    "title": "Rubrics",
+    "description": "Deze tool maakt het mogelijk om zelf rubrics te ontwerpen en te gebruiken voor het evalueren van leerlingen tijdens de les lichamelijke opvoeding. Je kunt beoordelingscriteria en prestatieniveaus aanpassen aan je lesdoelen en leerlingen eenvoudig beoordelen op basis van de gekozen rubric. De resultaten worden overzichtelijk bijgehouden en kunnen worden geëxporteerd voor verdere verwerking.",
+    "url": "https://tommadou.github.io/rubrics/",
+    "keywords": [
+      "Evaluatie",
+      "Rubrics"
     ],
     "featured": false,
     "visible": true
