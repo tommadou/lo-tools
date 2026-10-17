@@ -12,6 +12,7 @@
     "featured": false
   },
   {
+    "visible": true,
     "title": "Timer",
     "description": "Deze tool maakt het eenvoudig om een SWOLF-test af te nemen tijdens een zwemles. SWOLF combineert de tijd die een zwemmer nodig heeft om een afstand af te leggen met het aantal zwemslagen. Zo krijg je een eenvoudige maat voor zwemefficiëntie.\nMet de tool kun je meerdere leerlingen en banen tegelijk opvolgen. Je registreert de zwemtijd en het aantal slagen, waarna de SWOLF-score automatisch wordt berekend. De resultaten kunnen nadien worden geëxporteerd voor verdere verwerking.",
     "url": "https://tommadou.github.io/pacecoach",
@@ -21,8 +22,7 @@
       "SWOLF",
       "Zwemmen"
     ],
-    "featured": false,
-    "visible": true
+    "featured": false
   },
   {
     "visible": false,
@@ -48,5 +48,15 @@
       "Rubrics"
     ],
     "featured": false
+  },
+  {
+    "title": "Lesvoorbereiding",
+    "description": "Deze tool helpt om snel een nette lesvoorbereiding te maken.",
+    "url": "https://tommadou.github.io/lesvoorbereiding/",
+    "keywords": [
+      "Lesvoorbereiding"
+    ],
+    "featured": false,
+    "visible": true
   }
 ]
